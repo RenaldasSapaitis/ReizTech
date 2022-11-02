@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ren/Documents/Reiz/ClockAngle/dotnetWork.csproj",
-      "projectName": "dotnetWork",
-      "projectPath": "/home/ren/Documents/Reiz/ClockAngle/dotnetWork.csproj",
+      "projectUniqueName": "/home/ren/Documents/Reiz/binarySearchTree/binarySearchTree.csproj",
+      "projectName": "binarySearchTree",
+      "projectPath": "/home/ren/Documents/Reiz/binarySearchTree/binarySearchTree.csproj",
       "packagesPath": "/home/ren/.nuget/packages/",
-      "outputPath": "/home/ren/Documents/Reiz/ClockAngle/obj/",
+      "outputPath": "/home/ren/Documents/Reiz/binarySearchTree/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ren/.nuget/NuGet/NuGet.Config"
